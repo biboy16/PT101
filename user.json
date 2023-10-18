@@ -1,0 +1,40 @@
+{
+    "user1": {
+    "company":"Mcdo",
+    "name":"Claire",
+    "Positions":"Cashier",
+    "Location":"Davao",
+    "id":1
+    },
+    
+    "user2": {
+    "company":"Jollibee",
+    "name":"Trey Young",
+    "Positions":"Crew",
+    "Location":"Davao",
+    "id":2
+    },
+    
+    "user3": {
+    "company":"Mcdo",
+    "name":"Trey Old",
+    "Positions":"Cashier",
+    "Location":"Davao",
+    "id":3
+    },
+    
+    "user4": {
+    "company":"Jollibee",
+    "name":"Megan Fox",
+    "Positions":"Cashier",
+    "Location":"Davao",
+    "id":4
+    },
+    "user5": {
+    "company":"Mcdo",
+    "name":"Megan Wolf",
+    "Positions":"Crew",
+    "Location":"Davao",
+    "id":5
+    }
+    }
